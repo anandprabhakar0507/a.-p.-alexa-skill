@@ -1,11 +1,14 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "a. p. boss",
+            "invocationName": "a. p.",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
                     "samples": [
+                        "just wait",
+                        "wait a moment",
+                        "wait",
                         "kill these words",
                         "kill those words",
                         "kill that words",
