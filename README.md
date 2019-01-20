@@ -9,7 +9,7 @@ and then start by saying intents as
   
 **try these intents**
 
-            "intents": [
+             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
                     "samples": [
@@ -660,7 +660,7 @@ and then start by saying intents as
                         "bis bowl",
                         "bowl",
                         "unitensils",
-                        "utensils cleaner shop",
+                        "utensils cleaner soap",
                         "utensils cleaner",
                         "utensils",
                         "fork ",
@@ -685,7 +685,6 @@ and then start by saying intents as
                         "geyser",
                         "gayser",
                         "geeser",
-                        "tap",
                         "bathing soap",
                         "soap",
                         "fresh shower",
@@ -697,7 +696,6 @@ and then start by saying intents as
                     "name": "Actions",
                     "slots": [],
                     "samples": [
-                        "sleep",
                         "dirty",
                         "clean",
                         "wash",
@@ -705,7 +703,6 @@ and then start by saying intents as
                         "play",
                         "fit",
                         "keep",
-                        "shy",
                         "glow",
                         "charge",
                         "record",
@@ -744,7 +741,6 @@ and then start by saying intents as
                         "morning",
                         "glowing",
                         "sunny",
-                        "dull",
                         "climate",
                         "season ",
                         "cloudy",
@@ -799,7 +795,6 @@ and then start by saying intents as
                         "pale",
                         "dull",
                         "think",
-                        "smile",
                         "feel",
                         "shy",
                         "beloved",
@@ -816,7 +811,6 @@ and then start by saying intents as
                     "slots": [],
                     "samples": [
                         "paper soap",
-                        "soap",
                         "tissue paper",
                         "tissue"
                     ]
@@ -834,7 +828,6 @@ and then start by saying intents as
                         "sough",
                         "rough",
                         "tipy",
-                        "drawing",
                         "sketch",
                         "colour",
                         "pencil",
@@ -855,7 +848,6 @@ and then start by saying intents as
                         "biology",
                         "mathematics",
                         "math",
-                        "chemistry ",
                         "physics ",
                         "general knowledge",
                         "computer science",
@@ -877,5 +869,3 @@ and then start by saying intents as
                     ]
                 }
             ],
-
-    
