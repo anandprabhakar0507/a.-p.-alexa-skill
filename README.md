@@ -1,4 +1,6 @@
 # a.-p.-alexa-skill see [video](https://youtu.be/EC1F9VJeM5E)
+[image](https://github.com/anandprabhakar0507/a.-p.-alexa-skill/blob/master/ap%20rev.gif)
+[image](https://github.com/anandprabhakar0507/a.-p.-alexa-skill/blob/master/ap%20github.gif)
 ### this skill is created by me on alexa sdk ,named a. p.
 ## to start speak or write "open a. p."
 and then start by saying intents as 
