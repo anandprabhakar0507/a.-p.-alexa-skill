@@ -1,5 +1,0 @@
-amzn1.ask.skill.5df6ae05-94ef-4ed8-8235-71cabd6969fc
-
-arn:aws:lambda:us-east-1:385621822469:function:alexa-fact-skill-1
-
-published in UK,US,CA,IN and AU all in English language
